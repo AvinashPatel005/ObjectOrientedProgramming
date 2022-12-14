@@ -10,7 +10,6 @@ public class abstractMethod extends demo {
     void helloWorld(){
         System.out.println("Hello World");
     }
-
     public static void main(String[] args) {
         //creating object of abstract class.
         demo o1 = new abstractMethod();
