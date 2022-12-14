@@ -11,7 +11,7 @@ public class objectNclass1 {
         //creating object of the objectNclass class
         objectNclass1 o1 = new objectNclass1();
 
-        //Initializing object through reference/storing information into objects
+        //Initializing object/storing information into objects through reference
         o1.rollNo = 1;
         o1.name = "Avinash";
         o1.address ="Patna";
